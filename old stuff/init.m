@@ -12,6 +12,6 @@ plot(YEARS, HBCU_CS, '*'); hold on
 plot(YEARS,HBCU_SE, "r*");
 model = fitlm(YEARS,HBCU_CS,'quadratic');
 
-predict1 = predict(model, 17);
+predict1 = predict(model, 14);
 disp(predict1);
 
