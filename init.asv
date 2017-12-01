@@ -10,8 +10,8 @@ HBCU_NON_SE = [17590, 17678, 18015, 18074, 18727, 18623, 18536, 18825, 20093, 19
 figure;
 plot(YEARS, HBCU_CS, '*'); hold on
 plot(YEARS,HBCU_SE, "r*");
-model = fitlm(YEARS,HBCU_CS,'quadratic');
+model = fitlm(YEARS,HBCU_CS,'i');
 
-predict1 = predict(model, 17);
+predict1 = predict(model, 12);
 disp(predict1);
 
