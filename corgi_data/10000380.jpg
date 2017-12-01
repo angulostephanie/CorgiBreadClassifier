@@ -1,0 +1,1372 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="#meme trends. Photos and videos tagged with #meme on instagram">
+    
+<meta property="og:title" content="Photos &amp; Videos tagged with #meme on Instagram - Pintaram" />
+ <meta property="og:description" content="#meme trends. Photos and videos tagged with #meme on instagram" />
+ <meta property="og:site_name" content="Pintaram" />
+ <meta property="og:url" content="https://www.pintaram.com/t/meme" />
+ <meta property="og:image" content="https://scontent.cdninstagram.com/t51.2885-15/e15/24253669_1017742201702005_4417361666228879360_n.jpg" />
+<meta name="twitter:card" content="summary_large_image">
+ <meta name="twitter:title" content="Photos &amp; Videos tagged with #meme on Instagram - Pintaram" />
+ <meta name="twitter:description" content="#meme trends. Photos and videos tagged with #meme on instagram" />
+ <meta name="twitter:image" content="https://scontent.cdninstagram.com/t51.2885-15/e15/24253669_1017742201702005_4417361666228879360_n.jpg" />
+
+    <title>Photos &amp; Videos tagged with #meme on Instagram - Pintaram</title>
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="stylesheet" href="/static/home/bootstrap/css/bootstrap.min.css?ver=1496829502">
+    <link rel="stylesheet" href="/static/home/css/style.min.css?ver=1496829502">
+        <style type="text/css">
+        @media (min-width:336px){
+            .body-container{
+                position: relative;
+                max-width: 336px;
+                margin: 0 auto;
+            }
+        }
+        @media (min-width:728px){
+            .body-container{
+                max-width: 728px;
+            }
+            div.tw-ins-share-btn {
+                width: calc(100% - 200px);
+            }
+        }
+        @media (min-width:1120px){
+            .body-container{
+                max-width: 1120px;
+            }
+        }
+    </style>
+    <script src="/static/home/js/jquery-2.1.4.min.js"></script>
+    <script>
+    function imgLoadError(obj,imgtype){
+        var thisObj=$(obj);
+        if(thisObj.hasClass('img-error')){
+            return ;
+        }
+        thisObj.addClass('img-error');
+        if(imgtype=='user'){
+            thisObj.attr('src', "/static/home/images/default-profile.jpg?ver=1496829502");
+        }else if(imgtype=='media'){
+            thisObj.hide();
+        }
+    }
+    </script>
+    
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109351655-1"></script>
+    <script>
+     window.dataLayer = window.dataLayer || [];
+     function gtag(){dataLayer.push(arguments);}
+     gtag('js', new Date());
+
+     gtag('config', 'UA-109351655-1');
+    </script>
+</head>
+
+<body>
+    
+        <header class="header">
+            <div class="header-part">
+                <a href="/"><div class="header-logo"><img src="/static/home/images/pc/p_logo.png"></div></a>
+                <div class="header-seach-button">
+                    <div class="header-top-link">
+                                            <a href="/hot">Hot</a>
+                        <a href="/trend">Trends</a>
+                        <a href="/user">Users</a>
+                    </div>
+                    <div class="header-search-box">
+                        <form action="/search" method="get" id="index-search">
+                            <input class="search-text" type="text" name="query" value="" placeholder="Search hastag and users">
+                            <div class="search-submit" onclick="document.getElementById('index-search').submit();"><img src='/static/home/images/pc/p_search.png'></div>
+                        </form>
+                    </div>
+                    <div class="header-top">
+                        <a href="/login"><div class="index-button index-login">Login</div></a>                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </header>
+    
+    <div class="clearfix"></div>
+    
+    <div class="body-container">
+        <h1 class="hashtag tag-name">#meme</h1>
+        <div class="tag-user-post-count">
+                        <div class="tag-post-count"><span>31,540,632</span> posts tagged with #meme</div>        </div>
+        <div class="tw-ins-share-btn user-share-btn">
+          <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.pintaram.com%2Ft%2Fmeme&layout=button&size=small&mobile_iframe=true&width=59&height=20&appId" width="59" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+<div id="tweet-widget">
+  <div class="tweet-btn-o" style="width: 60px;"><a target="_blank" rel="nofollow" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fwww.pintaram.com%2Ft%2Fmeme&amp;ref_src=twsrc%5Etfw&amp;text=Photos%20%26%20Videos%20tagged%20with%20%23meme%20on%20Instagram%20-%20Pintaram&amp;tw_p=tweetbutton&amp;url=https%3A%2F%2Fwww.pintaram.com%2Ft%2Fmeme" class="tweet-btn"><i></i><span class="tweet-label">Tweet</span></a></div>
+</div>
+
+        </div>
+        <h2 class="tag-title">Photos and Videos about #meme</h2>
+        <div class="pintaram-list grid" id="pintaram-latestpost-list">
+            <div class="pintaram-item grid-item" style="width: 728px;">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Pin-PC-ut-728 -->
+        <ins class="adsbygoogle"
+            style="display:inline-block;width:728px;height:90px"
+            data-ad-client="ca-pub-8402297039556415"
+            data-ad-slot="5325829249"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/t00fless/1660521903671961403_6116251957" style="height:336px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/e15/24253669_1017742201702005_4417361666228879360_n.jpg" alt="" style="height:336px;" onerror="imgLoadError(this,'media');">
+                <div class="video-img"><img src="/static/home/images/pc/p_video.png"></div>        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/t00fless"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/23966818_150883365533965_4983360844566888448_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/t00fless"><div>Endless Entertainment</div> <div>(@t00fless)</div></a>
+                </h3>
+
+                <span class="created_time">4 Seconds Ago</span>
+            </div>
+            <p class="pintaram-text">He can do it on his own
+~
+Follow @t00fless for more videos like this
+<a href="/t/dankmemes">#dankmemes</a> <a href="/t/kys">#kys</a> <a href="/t/memes">#memes</a> <a href="/t/meme">#meme</a>  <a href="/t/memethief">#memethief</a> <a href="/t/vape">#vape</a> <a href="/t/gang">#gang</a> <a href="/t/supreme">#supreme</a> <a href="/t/picoftheday">#picoftheday</a> <a href="/t/hypebeast">#hypebeast</a> <a href="/t/lol">#lol</a> <a href="/t/funny">#funny</a> <a href="/t/fail">#fail</a> <a href="/t/rekt">#rekt</a> <a href="/t/wasted">#wasted</a> <a href="/t/destroyed">#destroyed</a> <a href="/t/lmao">#lmao</a> <a href="/t/lmfao">#lmfao</a> <a href="/t/rekt">#rekt</a> <a href="/t/memedaily">#memedaily</a> <a href="/t/video">#video</a> <a href="/t/f4f">#f4f</a> <a href="/t/follow">#follow</a> <a href="/t/free">#free</a></p>
+            <div class="likes-comments">
+                <span class="likes">0 Like</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/t00fless/1660521903671961403_6116251957">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/osigametv/1660522219107248097_5687416049" style="height:341.25px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p320x320/24177344_1721452134540983_2954069632786366464_n.jpg" alt="" style="height:341.25px;" onerror="imgLoadError(this,'media');">
+                        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/osigametv"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/20766990_508550849483522_4614172387879944192_a.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/osigametv"><div>OSI ~Original Content Only~</div> <div>(@osigametv)</div></a>
+                </h3>
+
+                <span class="created_time">0 Second Ago</span>
+            </div>
+            <p class="pintaram-text">Miss me with it if it ain't chicken dinner. 😤😤😤
+.
+.
+.
+@osigametv .
+.
+.
+<a href="/t/leaguememes">#leaguememes</a> <a href="/t/leagueoflegends">#leagueoflegends</a> <a href="/t/leagueofmemes">#leagueofmemes</a> <a href="/t/silver">#silver</a> <a href="/t/memes">#memes</a> <a href="/t/meme">#meme</a> <a href="/t/memesdaily">#memesdaily</a> <a href="/t/funnyleague">#funnyleague</a> <a href="/t/leaguecommunity">#leaguecommunity</a> <a href="/t/osi">#osi</a> <a href="/t/streaming">#streaming</a> <a href="/t/esports">#esports</a> <a href="/t/esportmemes">#esportmemes</a> <a href="/t/competition">#competition</a> <a href="/t/gamerlife">#gamerlife</a> <a href="/t/gamingmemes">#gamingmemes</a> <a href="/t/winner">#winner</a> <a href="/t/victory">#victory</a> <a href="/t/callofduty">#callofduty</a> <a href="/t/ww2">#ww2</a> <a href="/t/pubg">#pubg</a> <a href="/t/pubgmemes">#pubgmemes</a> <a href="/t/codmemes">#codmemes</a> <a href="/t/winnerwinnerchickendinner">#winnerwinnerchickendinner</a></p>
+            <div class="likes-comments">
+                <span class="likes">0 Like</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/osigametv/1660522219107248097_5687416049">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/queacelgaok/1660522214502897630_6477039018" style="height:336px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/sh0.08/e35/24177501_1875274506120096_8342743882492018688_n.jpg" alt="" style="height:336px;" onerror="imgLoadError(this,'media');">
+                        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/queacelgaok"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/24177660_906594256154857_523401181595172864_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/queacelgaok"><div>Que Acelga 🇦🇷💚</div> <div>(@queacelgaok)</div></a>
+                </h3>
+
+                <span class="created_time">0 Second Ago</span>
+            </div>
+            <p class="pintaram-text"><a href="/t/queaselga">#queaselga</a> <a href="/t/meme">#meme</a> Menciona a tus amigos</p>
+            <div class="likes-comments">
+                <span class="likes">0 Like</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/queacelgaok/1660522214502897630_6477039018">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/uzitrigger/1660522019164720314_6258548723" style="height:336px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/e15/24274609_260949207766696_3873219151258451968_n.jpg" alt="" style="height:336px;" onerror="imgLoadError(this,'media');">
+                <div class="video-img"><img src="/static/home/images/pc/p_video.png"></div>        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/uzitrigger"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/23594724_544607532542626_6262474883536519168_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/uzitrigger"><div>Funny Memes &amp; Videos! 😂🤙🏾</div> <div>(@uzitrigger)</div></a>
+                </h3>
+
+                <span class="created_time">0 Second Ago</span>
+            </div>
+            <p class="pintaram-text">Lmao 😂😂😂
+Follow @uzitrigger for daily memes and the best banter content! 
+DM FUNNY VIDEOS FOR A CHANCE TO BE FEATURED😎📲 -
+-
+-
+-
+-
+- -
+<a href="/t/follow">#follow</a> <a href="/t/laugh">#laugh</a> <a href="/t/followforfollow">#followforfollow</a> <a href="/t/explorepage">#explorepage</a> <a href="/t/explorefollow">#explorefollow</a> <a href="/t/funnyposts">#funnyposts</a> <a href="/t/lmao">#lmao</a> <a href="/t/funnytextposts">#funnytextposts</a>  <a href="/t/followme">#followme</a> <a href="/t/memesdaily">#memesdaily</a>  <a href="/t/clean">#clean</a> <a href="/t/accurate">#accurate</a> <a href="/t/comedy">#comedy</a> <a href="/t/cleanmeme">#cleanmeme</a> <a href="/t/cleanmemes">#cleanmemes</a> <a href="/t/cute">#cute</a> <a href="/t/dank">#dank</a> <a href="/t/dankmeme">#dankmeme</a> <a href="/t/dankmemes">#dankmemes</a> <a href="/t/funny">#funny</a> <a href="/t/ha">#ha</a> <a href="/t/haha">#haha</a> <a href="/t/hilarious">#hilarious</a> <a href="/t/lol">#lol</a> <a href="/t/me">#me</a> <a href="/t/meme">#meme</a> <a href="/t/memes">#memes</a> <a href="/t/omg">#omg</a> <a href="/t/pun">#pun</a></p>
+            <div class="likes-comments">
+                <span class="likes">0 Like</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/uzitrigger/1660522019164720314_6258548723">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    <div class="pintaram-item grid-item">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Pin-ut-336 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:336px;height:280px"
+             data-ad-client="ca-pub-8402297039556415"
+             data-ad-slot="2332670487"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/chainedvision/1660459442296928940_3406959400" style="height:336px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/sh0.08/e35/24178194_499633613743338_8445096767086657536_n.jpg" alt="" style="height:336px;" onerror="imgLoadError(this,'media');">
+                        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/chainedvision"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/23734801_612760955722461_550367507425263616_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/chainedvision"><div>⛓✞C a L✞⛓</div> <div>(@chainedvision)</div></a>
+                </h3>
+
+                <span class="created_time">2 Hours Ago</span>
+            </div>
+            <p class="pintaram-text"></p>
+            <div class="likes-comments">
+                <span class="likes">21 Likes</span>
+                <span class="comments">1 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/chainedvision/1660459442296928940_3406959400">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/carrie_smattick/1660522189110939803_2139430978" style="height:338.1px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p320x320/24175217_365457957232488_8514920574403739648_n.jpg" alt="" style="height:338.1px;" onerror="imgLoadError(this,'media');">
+                        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/carrie_smattick"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/22861076_956044937880868_3097075516709011456_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/carrie_smattick"><div>Space Bear</div> <div>(@carrie_smattick)</div></a>
+                </h3>
+
+                <span class="created_time">0 Second Ago</span>
+            </div>
+            <p class="pintaram-text">😂😂😂 😂 <a href="/t/infinitywar">#infinitywar</a> <a href="/t/captainamerica">#captainamerica</a> <a href="/t/starlord">#starlord</a> <a href="/t/marvel">#marvel</a> <a href="/t/mcu">#mcu</a> <a href="/t/meme">#meme</a> <a href="/t/funny">#funny</a> <a href="/t/lol">#lol</a> <a href="/t/humour">#humour</a> <a href="/t/missionreportdecember16th1991">#missionreportdecember16th1991</a> <a href="/t/blackpanther">#blackpanther</a> <a href="/t/husband">#husband</a> <a href="/t/auntmay">#auntmay</a></p>
+            <div class="likes-comments">
+                <span class="likes">0 Like</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/carrie_smattick/1660522189110939803_2139430978">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/strictly_jokes/1660522021077906162_5683017708" style="height:336px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/e35/24178194_807760342745554_6691352403406487552_n.jpg" alt="" style="height:336px;" onerror="imgLoadError(this,'media');">
+                        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/strictly_jokes"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/19533838_646157548916936_8102049508587732992_a.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/strictly_jokes"><div>Send Memes or DIE 💀</div> <div>(@strictly_jokes)</div></a>
+                </h3>
+
+                <span class="created_time">0 Second Ago</span>
+            </div>
+            <p class="pintaram-text">Accurate AF 😂</p>
+            <div class="likes-comments">
+                <span class="likes">1 Like</span>
+                <span class="comments">1 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/strictly_jokes/1660522021077906162_5683017708">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/scooter_mcmemethief/1660522135826707313_707716562" style="height:336px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/e35/24274428_1676439132377803_2142931498062315520_n.jpg" alt="" style="height:336px;" onerror="imgLoadError(this,'media');">
+                <div class="video-img"><img src="/static/home/images/pc/p_video.png"></div>        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/scooter_mcmemethief"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/22500635_1863547053674881_9079015205328912384_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/scooter_mcmemethief"><div>Scooter</div> <div>(@scooter_mcmemethief)</div></a>
+                </h3>
+
+                <span class="created_time">0 Second Ago</span>
+            </div>
+            <p class="pintaram-text">-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
++Tags
+-
+-
+-
+-
+-
+-
+-
+<a href="/t/meme">#meme</a> <a href="/t/funny">#funny</a> <a href="/t/dankmeme">#dankmeme</a> <a href="/t/idubbbz">#idubbbz</a> <a href="/t/h3h3">#h3h3</a> <a href="/t/pewdiepie">#pewdiepie</a> <a href="/t/fnaf">#fnaf</a> <a href="/t/minecraft">#minecraft</a> <a href="/t/roblox">#roblox</a> <a href="/t/jontron">#jontron</a> <a href="/t/games">#games</a> <a href="/t/edgy">#edgy</a> <a href="/t/edgymemes">#edgymemes</a> <a href="/t/darkhumor">#darkhumor</a> <a href="/t/lmao">#lmao</a> <a href="/t/drama">#drama</a> <a href="/t/fight">#fight</a> <a href="/t/keemstar">#keemstar</a> <a href="/t/clickbait">#clickbait</a> <a href="/t/lit">#lit</a> <a href="/t/offensive">#offensive</a> <a href="/t/humor">#humor</a> <a href="/t/life">#life</a> <a href="/t/music">#music</a> <a href="/t/vine">#vine</a> <a href="/t/spongegar">#spongegar</a> <a href="/t/funnyvine">#funnyvine</a> <a href="/t/datboi">#datboi</a> <a href="/t/pepe">#pepe</a></p>
+            <div class="likes-comments">
+                <span class="likes">0 Like</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/scooter_mcmemethief/1660522135826707313_707716562">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+<div class="pintaram-item grid-item">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Pin-ut-336-2 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:336px;height:280px"
+             data-ad-client="ca-pub-8402297039556415"
+             data-ad-slot="4904250083"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/http.traghik__/1660522160975608111_5825999502" style="height:261.975px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/e35/24253949_2024660104419506_1772749486590787584_n.jpg" alt="" style="height:261.975px;" onerror="imgLoadError(this,'media');">
+                        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/http.traghik__"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/22793795_144914892794944_2968583972252024832_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/http.traghik__"><div>Fucking Tragic</div> <div>(@http.traghik__)</div></a>
+                </h3>
+
+                <span class="created_time">0 Second Ago</span>
+            </div>
+            <p class="pintaram-text">Relatable. Tag your homies
+•
+<a href="/t/meme">#meme</a> <a href="/t/memes">#memes</a> <a href="/t/goodmeme">#goodmeme</a> <a href="/t/goodmemes">#goodmemes</a> <a href="/t/memepage">#memepage</a> <a href="/t/dailymemes">#dailymemes</a> <a href="/t/dank">#dank</a> <a href="/t/dankmeme">#dankmeme</a> <a href="/t/dankmemes">#dankmemes</a> <a href="/t/funny">#funny</a> <a href="/t/humour">#humour</a> <a href="/t/lol">#lol</a> <a href="/t/420">#420</a> <a href="/t/420memes">#420memes</a> <a href="/t/cringy">#cringy</a> <a href="/t/edgy">#edgy</a> <a href="/t/edgymemes">#edgymemes</a> <a href="/t/edgymeme">#edgymeme</a> <a href="/t/moistmemes">#moistmemes</a> <a href="/t/shitposts">#shitposts</a> <a href="/t/shitposting">#shitposting</a> <a href="/t/like">#like</a> <a href="/t/comment">#comment</a> <a href="/t/follow">#follow</a> <a href="/t/share">#share</a> <a href="/t/doubletap">#doubletap</a> <a href="/t/homies">#homies</a></p>
+            <div class="likes-comments">
+                <span class="likes">0 Like</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/http.traghik__/1660522160975608111_5825999502">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/polesquirt/1660522022696274430_6284420057" style="height:336px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/e15/24331843_2055568824673945_6902290681243369472_n.jpg" alt="" style="height:336px;" onerror="imgLoadError(this,'media');">
+                <div class="video-img"><img src="/static/home/images/pc/p_video.png"></div>        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/polesquirt"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/23098537_125712911466114_1464797144601853952_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/polesquirt"><div>PoleSquirt</div> <div>(@polesquirt)</div></a>
+                </h3>
+
+                <span class="created_time">0 Second Ago</span>
+            </div>
+            <p class="pintaram-text"><a href="/t/meme">#meme</a> <a href="/t/lilpeep">#lilpeep</a> <a href="/t/dank">#dank</a> <a href="/t/dankmemes">#dankmemes</a> <a href="/t/lmao">#lmao</a> <a href="/t/memes">#memes</a> <a href="/t/funny">#funny</a> <a href="/t/anime">#anime</a> <a href="/t/kek">#kek</a> <a href="/t/bootypics">#bootypics</a> <a href="/t/edgy">#edgy</a> <a href="/t/savage">#savage</a> <a href="/t/nochill">#nochill</a> <a href="/t/hilarious">#hilarious</a> <a href="/t/4chan">#4chan</a> <a href="/t/depressed">#depressed</a> <a href="/t/lilpump">#lilpump</a> <a href="/t/depression">#depression</a> <a href="/t/titsout">#titsout</a> <a href="/t/ass">#ass</a> <a href="/t/sex">#sex</a> <a href="/t/memes">#memes</a> <a href="/t/sexy">#sexy</a> <a href="/t/liluzivert">#liluzivert</a> <a href="/t/funny">#funny</a> <a href="/t/haha">#haha</a> <a href="/t/lmao">#lmao</a> <a href="/t/ecchihentaii">#ecchihentaii</a> <a href="/t/animetiddies">#animetiddies</a></p>
+            <div class="likes-comments">
+                <span class="likes">0 Like</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/polesquirt/1660522022696274430_6284420057">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/bumblebeegf/1660522168541566315_5965771113" style="height:336px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/sh0.08/e35/24175138_1937469353239879_5724046281387540480_n.jpg" alt="" style="height:336px;" onerror="imgLoadError(this,'media');">
+                        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/bumblebeegf"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/23735059_1731170320240753_8013073750608052224_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/bumblebeegf"><div>sad bhabie</div> <div>(@bumblebeegf)</div></a>
+                </h3>
+
+                <span class="created_time">0 Second Ago</span>
+            </div>
+            <p class="pintaram-text">catch me flexing at every high school reunion dressed in head to toe gucci 😎
+🕊
+🥐
+🕊
+<a href="/t/nichememes">#nichememes</a> <a href="/t/niche">#niche</a> <a href="/t/nichememe">#nichememe</a> <a href="/t/meme">#meme</a> <a href="/t/nichememeaccount">#nichememeaccount</a> <a href="/t/artsy">#artsy</a> <a href="/t/goals">#goals</a> <a href="/t/meme">#meme</a> <a href="/t/future">#future</a> <a href="/t/futuregoals">#futuregoals</a> <a href="/t/dreams">#dreams</a> <a href="/t/oxford">#oxford</a> <a href="/t/europe">#europe</a> <a href="/t/flowers">#flowers</a></p>
+            <div class="likes-comments">
+                <span class="likes">0 Like</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/bumblebeegf/1660522168541566315_5965771113">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/memersdailydose/1660522150758215701_6626538315" style="height:336px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/e35/24177552_780964122089619_6780985364396900352_n.jpg" alt="" style="height:336px;" onerror="imgLoadError(this,'media');">
+                        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/memersdailydose"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/24125681_1758185807565963_5163762665138421760_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/memersdailydose"><div>MemersDailyDose</div> <div>(@memersdailydose)</div></a>
+                </h3>
+
+                <span class="created_time">0 Second Ago</span>
+            </div>
+            <p class="pintaram-text">Memes <a href="/t/dank">#dank</a> <a href="/t/meme">#meme</a> <a href="/t/ifunny">#ifunny</a> <a href="/t/funny">#funny</a> <a href="/t/lit">#lit</a> <a href="/t/litty">#litty</a> <a href="/t/hashtag">#hashtag</a> <a href="/t/cars">#cars</a> <a href="/t/car">#car</a> <a href="/t/gaming">#gaming</a> <a href="/t/gaminglife">#gaminglife</a> <a href="/t/gamer">#gamer</a></p>
+            <div class="likes-comments">
+                <span class="likes">0 Like</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/memersdailydose/1660522150758215701_6626538315">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/idcdigital/1660519505552469685_2098141381" style="height:216.3137254902px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/e15/24327136_544280035916845_3062608309669330944_n.jpg" alt="" style="height:216.3137254902px;" onerror="imgLoadError(this,'media');">
+                <div class="video-img"><img src="/static/home/images/pc/p_video.png"></div>        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/idcdigital"><img src="https://scontent.cdninstagram.com/t51.2885-19/11280263_681286401976915_1740360436_a.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/idcdigital"><div>IDCdigital</div> <div>(@idcdigital)</div></a>
+                </h3>
+
+                <span class="created_time">3 Minutes Ago</span>
+            </div>
+            <p class="pintaram-text">This has been our December 1st mood, all 🎅🏼 day 🎄 long ⛄️</p>
+            <div class="likes-comments">
+                <span class="likes">0 Like</span>
+                <span class="comments">1 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/idcdigital/1660519505552469685_2098141381">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/biggerounce/1660522129911447890_4024774065" style="height:380.1px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p320x320/24254404_1426894470771582_2979201706933354496_n.jpg" alt="" style="height:380.1px;" onerror="imgLoadError(this,'media');">
+                        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/biggerounce"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/24178155_1714091108635609_675181829732433920_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/biggerounce"><div>BigOunce</div> <div>(@biggerounce)</div></a>
+                </h3>
+
+                <span class="created_time">0 Second Ago</span>
+            </div>
+            <p class="pintaram-text">Follow | @bigounceniggas | For more ↗ Turn on post notifications ↗
+Follow •
+•
+.
+•
+.
+•
+.
+•
+
+<a href="/t/memes">#memes</a> <a href="/t/meme">#meme</a> <a href="/t/memesdaily">#memesdaily</a> <a href="/t/funnymemes">#funnymemes</a> <a href="/t/goofmeme">#goofmeme</a> <a href="/t/ruskimemes">#ruskimemes</a> <a href="/t/whosmemesisthis">#whosmemesisthis</a> <a href="/t/funny">#funny</a> <a href="/t/funnys">#funnys</a> <a href="/t/joke">#joke</a> <a href="/t/jokes">#jokes</a> <a href="/t/comedy">#comedy</a> <a href="/t/funnyvideos">#funnyvideos</a> <a href="/t/videos">#videos</a> <a href="/t/dank">#dank</a> <a href="/t/dankmemes">#dankmemes</a> <a href="/t/dankmeme">#dankmeme</a> <a href="/t/coolmeme">#coolmeme</a> <a href="/t/trend">#trend</a> <a href="/t/trends">#trends</a> <a href="/t/trending">#trending</a> <a href="/t/new">#new</a> <a href="/t/420">#420</a> <a href="/t/racist">#racist</a> <a href="/t/pranks">#pranks</a> <a href="/t/lit">#lit</a> <a href="/t/rolf">#rolf</a> <a href="/t/filthyfrank">#filthyfrank</a> <a href="/t/autisticmemes">#autisticmemes</a> <a href="/t/autism">#autism</a></p>
+            <div class="likes-comments">
+                <span class="likes">0 Like</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/biggerounce/1660522129911447890_4024774065">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/catsmeow227/1660519346647458428_6612972296" style="height:336px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/e35/24331931_1773287659638091_4832670735870722048_n.jpg" alt="" style="height:336px;" onerror="imgLoadError(this,'media');">
+                <div class="video-img"><img src="/static/home/images/pc/p_video.png"></div>        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/catsmeow227"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/23967710_546159609077535_6934059008143654912_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/catsmeow227"><div>MemesDaily</div> <div>(@catsmeow227)</div></a>
+                </h3>
+
+                <span class="created_time">4 Minutes Ago</span>
+            </div>
+            <p class="pintaram-text">@timedperfections_
+<a href="/t/dankmemes">#dankmemes</a> <a href="/t/dank">#dank</a> <a href="/t/memes">#memes</a> <a href="/t/cringe">#cringe</a> <a href="/t/offensivememes">#offensivememes</a> <a href="/t/edgymemes">#edgymemes</a> <a href="/t/cancer">#cancer</a> <a href="/t/idubbbz">#idubbbz</a> <a href="/t/meme">#meme</a> <a href="/t/xfiles">#xfiles</a> <a href="/t/filthyfrank">#filthyfrank</a> <a href="/t/veitnamflashback">#veitnamflashback</a> <a href="/t/triggered">#triggered</a> <a href="/t/hitler">#hitler</a> <a href="/t/dankmemescantmeltsteelbeams">#dankmemescantmeltsteelbeams</a> <a href="/t/follow">#follow</a></p>
+            <div class="likes-comments">
+                <span class="likes">0 Like</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/catsmeow227/1660519346647458428_6612972296">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/the_palpy/1660522120910997034_6613816551" style="height:336px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/sh0.08/e35/24177749_392221531209213_5076116156587180032_n.jpg" alt="" style="height:336px;" onerror="imgLoadError(this,'media');">
+                        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/the_palpy"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/23969708_148148905819192_9037595859281248256_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/the_palpy"><div>Sheev</div> <div>(@the_palpy)</div></a>
+                </h3>
+
+                <span class="created_time">0 Second Ago</span>
+            </div>
+            <p class="pintaram-text">The things GameStop does should be a crime <a href="/t/starwarsmemes">#starwarsmemes</a> <a href="/t/memes">#memes</a> <a href="/t/porg">#porg</a> <a href="/t/thelastjedi">#thelastjedi</a> <a href="/t/starwars">#starwars</a> <a href="/t/obiwankenobi">#obiwankenobi</a> <a href="/t/lol">#lol</a> <a href="/t/meme">#meme</a> <a href="/t/starwars">#starwars</a> <a href="/t/dankmeme">#dankmeme</a> <a href="/t/dank">#dank</a></p>
+            <div class="likes-comments">
+                <span class="likes">0 Like</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/the_palpy/1660522120910997034_6613816551">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/monkeys.giraffes.memes/1660522105399319977_6034760809" style="height:331.8px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/sh0.08/e35/24327645_312407839249999_2200081694407524352_n.jpg" alt="" style="height:331.8px;" onerror="imgLoadError(this,'media');">
+                        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/monkeys.giraffes.memes"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/21569053_121700558490912_940080659337052160_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/monkeys.giraffes.memes"><div>Starr</div> <div>(@monkeys.giraffes.memes)</div></a>
+                </h3>
+
+                <span class="created_time">0 Second Ago</span>
+            </div>
+            <p class="pintaram-text"><a href="/t/meme">#meme</a> <a href="/t/memes">#memes</a> <a href="/t/funnymeme">#funnymeme</a> <a href="/t/funnymemes">#funnymemes</a> <a href="/t/clean">#clean</a> <a href="/t/cleanmeme">#cleanmeme</a> <a href="/t/cleanmemes">#cleanmemes</a> <a href="/t/funnycleanmeme">#funnycleanmeme</a> <a href="/t/funnycleanmemes">#funnycleanmemes</a> <a href="/t/funnyclean">#funnyclean</a> <a href="/t/cleanfunny">#cleanfunny</a> <a href="/t/cleanfunnymeme">#cleanfunnymeme</a> <a href="/t/cleanfunnymemes">#cleanfunnymemes</a> <a href="/t/memedaily">#memedaily</a> <a href="/t/memesdaily">#memesdaily</a></p>
+            <div class="likes-comments">
+                <span class="likes">0 Like</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/monkeys.giraffes.memes/1660522105399319977_6034760809">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/willville101/1660522107565351436_1632544820" style="height:329.7px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/e35/24274469_1968010836856789_6423506839689756672_n.jpg" alt="" style="height:329.7px;" onerror="imgLoadError(this,'media');">
+                        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/willville101"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/19624380_1893746974222621_4087342259014467584_a.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/willville101"><div>Will Ville</div> <div>(@willville101)</div></a>
+                </h3>
+
+                <span class="created_time">0 Second Ago</span>
+            </div>
+            <p class="pintaram-text">Life
+<a href="/t/willville">#willville</a> <a href="/t/willville101">#willville101</a> <a href="/t/tnslk">#tnslk</a> <a href="/t/hiphop">#hiphop</a> <a href="/t/rap">#rap</a> <a href="/t/newmusic">#newmusic</a> <a href="/t/googleplaymusic">#googleplaymusic</a> <a href="/t/unlimited">#unlimited</a> <a href="/t/style">#style</a> <a href="/t/records">#records</a> <a href="/t/grammys">#grammys</a> <a href="/t/beats">#beats</a> <a href="/t/producer">#producer</a> <a href="/t/northwest">#northwest</a> <a href="/t/inspiration">#inspiration</a> <a href="/t/meme">#meme</a> <a href="/t/free">#free</a> <a href="/t/memes">#memes</a> <a href="/t/nba">#nba</a> <a href="/t/nfl">#nfl</a> <a href="/t/motivation">#motivation</a> <a href="/t/thankful">#thankful</a> <a href="/t/montana">#montana</a> <a href="/t/blackfeet">#blackfeet</a> <a href="/t/nativeamerican">#nativeamerican</a> <a href="/t/rare">#rare</a> <a href="/t/soul">#soul</a> <a href="/t/notforsale">#notforsale</a> <a href="/t/faith">#faith</a> <a href="/t/pray">#pray</a></p>
+            <div class="likes-comments">
+                <span class="likes">2 Likes</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/willville101/1660522107565351436_1632544820">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/dungeons_dragons_and_memes/1660522102665309007_4549355513" style="height:336px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/e35/24178093_144583786200608_4329440107972001792_n.jpg" alt="" style="height:336px;" onerror="imgLoadError(this,'media');">
+                        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/dungeons_dragons_and_memes"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/23101110_508870819479247_775069626437468160_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/dungeons_dragons_and_memes"><div>Dungeon Master</div> <div>(@dungeons_dragons_and_memes)</div></a>
+                </h3>
+
+                <span class="created_time">0 Second Ago</span>
+            </div>
+            <p class="pintaram-text"><a href="/t/chick">#chick</a> <a href="/t/chickmeme">#chickmeme</a> <a href="/t/funnymemes">#funnymemes</a> <a href="/t/funny">#funny</a> <a href="/t/cutememes">#cutememes</a> <a href="/t/adorable">#adorable</a> <a href="/t/meme">#meme</a> <a href="/t/memes">#memes</a></p>
+            <div class="likes-comments">
+                <span class="likes">0 Like</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/dungeons_dragons_and_memes/1660522102665309007_4549355513">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/kickurmom/1660521896531278351_6637791412" style="height:336px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/sh0.08/e35/24254460_528020907554787_1865244343204315136_n.jpg" alt="" style="height:336px;" onerror="imgLoadError(this,'media');">
+                        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/kickurmom"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/24125569_292928984551379_6908890426774650880_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/kickurmom"><div>U Heard Me</div> <div>(@kickurmom)</div></a>
+                </h3>
+
+                <span class="created_time">12 Seconds Ago</span>
+            </div>
+            <p class="pintaram-text">Yknow how most girls first start out masturbating with a pillow or something? I had one of these bears and...yeah.</p>
+            <div class="likes-comments">
+                <span class="likes">0 Like</span>
+                <span class="comments">1 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/kickurmom/1660521896531278351_6637791412">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/dailyspampage/1660522060462722851_6641779462" style="height:336px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/sh0.08/e35/24178111_1984279285170739_9115793813443444736_n.jpg" alt="" style="height:336px;" onerror="imgLoadError(this,'media');">
+                        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/dailyspampage"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/24177995_146443692666682_2508057839105212416_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/dailyspampage"><div>hi :)</div> <div>(@dailyspampage)</div></a>
+                </h3>
+
+                <span class="created_time">0 Second Ago</span>
+            </div>
+            <p class="pintaram-text">:))) awww</p>
+            <div class="likes-comments">
+                <span class="likes">0 Like</span>
+                <span class="comments">1 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/dailyspampage/1660522060462722851_6641779462">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/sharon_is_so_brave/1660521845050626092_5692410347" style="height:268.8px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/sh0.08/e35/24274074_161961354537455_5106880766810259456_n.jpg" alt="" style="height:268.8px;" onerror="imgLoadError(this,'media');">
+                        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/sharon_is_so_brave"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/19624191_1878307912433101_7735318683727167488_a.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/sharon_is_so_brave"><div>A-a-ron Anusini &amp; Chase  Ross</div> <div>(@sharon_is_so_brave)</div></a>
+                </h3>
+
+                <span class="created_time">18 Seconds Ago</span>
+            </div>
+            <p class="pintaram-text">All I want for cis-mas issssss Teeee
+<a href="/t/cis">#cis</a> <a href="/t/homo">#homo</a> <a href="/t/gay">#gay</a> <a href="/t/homosexual">#homosexual</a> <a href="/t/nb">#nb</a> <a href="/t/femaletomeme">#femaletomeme</a> <a href="/t/meme4meme">#meme4meme</a> <a href="/t/gaytho">#gaytho</a> <a href="/t/gay">#gay</a> <a href="/t/pride">#pride</a> <a href="/t/rainbow">#rainbow</a> <a href="/t/meme">#meme</a> <a href="/t/memes">#memes</a> <a href="/t/newmeme">#newmeme</a> <a href="/t/memelord">#memelord</a> <a href="/t/imvlonely">#imvlonely</a> <a href="/t/ysb">#ysb</a> <a href="/t/youresobrave">#youresobrave</a> <a href="/t/ysbpodcast">#ysbpodcast</a> <a href="/t/podcast">#podcast</a> <a href="/t/chaseross">#chaseross</a> <a href="/t/sharon">#sharon</a> <a href="/t/aaronansuini">#aaronansuini</a> <a href="/t/femaletomemelord">#femaletomemelord</a> <a href="/t/ftm">#ftm</a> <a href="/t/trans">#trans</a></p>
+            <div class="likes-comments">
+                <span class="likes">0 Like</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/sharon_is_so_brave/1660521845050626092_5692410347">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/crusty.dirt/1660522023133957389_6414535417" style="height:351.225px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p320x320/24274150_1807404609556965_3590028167609319424_n.jpg" alt="" style="height:351.225px;" onerror="imgLoadError(this,'media');">
+                        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/crusty.dirt"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/23421965_500337713667913_1828601348682153984_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/crusty.dirt"><div>Finger A Turkey</div> <div>(@crusty.dirt)</div></a>
+                </h3>
+
+                <span class="created_time">0 Second Ago</span>
+            </div>
+            <p class="pintaram-text">-
+-
+-
+-
+<a href="/t/cunt">#cunt</a><a href="/t/bitch">#bitch</a><a href="/t/furry">#furry</a><a href="/t/shit">#shit</a><a href="/t/fuck">#fuck</a><a href="/t/meme">#meme</a><a href="/t/memes">#memes</a><a href="/t/cancer">#cancer</a><a href="/t/cringe">#cringe</a><a href="/t/cringeymemes">#cringeymemes</a><a href="/t/drugs">#drugs</a><a href="/t/weed">#weed</a><a href="/t/orang">#orang</a><a href="/t/doggo">#doggo</a><a href="/t/pupper">#pupper</a><a href="/t/doge">#doge</a><a href="/t/2017memes">#2017memes</a><a href="/t/lit">#lit</a><a href="/t/shittymemes">#shittymemes</a><a href="/t/shittymeme">#shittymeme</a><a href="/t/noob">#noob</a><a href="/t/dank">#dank</a><a href="/t/dankmeme">#dankmeme</a><a href="/t/dankmemes">#dankmemes</a><a href="/t/trigger">#trigger</a><a href="/t/triggered">#triggered</a><a href="/t/feminism">#feminism</a><a href="/t/sjw">#sjw</a><a href="/t/blm">#blm</a><a href="/t/loss">#loss</a></p>
+            <div class="likes-comments">
+                <span class="likes">0 Like</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/crusty.dirt/1660522023133957389_6414535417">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/allalonearies/1660521420117138337_6650314602" style="height:336px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/sh0.08/e35/24253720_134172863966065_8493752725006188544_n.jpg" alt="" style="height:336px;" onerror="imgLoadError(this,'media');">
+                        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/allalonearies"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/24274689_1630572643707743_7110644157567205376_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/allalonearies"><div></div> <div>(@allalonearies)</div></a>
+                </h3>
+
+                <span class="created_time">1 Minute Ago</span>
+            </div>
+            <p class="pintaram-text">sorry if you got 295 you must be havin' a hard time bein' me</p>
+            <div class="likes-comments">
+                <span class="likes">0 Like</span>
+                <span class="comments">1 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/allalonearies/1660521420117138337_6650314602">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/archives_stories/1660521883203705025_5493243865" style="height:336px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/e35/24177858_130026354336212_361244493766197248_n.jpg" alt="" style="height:336px;" onerror="imgLoadError(this,'media');">
+                        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/archives_stories"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/21826970_174729826422869_873242180708204544_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/archives_stories"><div>Call Me Dad👴🏻🍻</div> <div>(@archives_stories)</div></a>
+                </h3>
+
+                <span class="created_time">14 Seconds Ago</span>
+            </div>
+            <p class="pintaram-text">If this the case watch me spend all my savings in walmart, this Chanel  looks like trash .
+,
+.
+.
+.
+.
+.
+<a href="/t/tumblr">#tumblr</a><a href="/t/textpost">#textpost</a><a href="/t/tumblrtextposts">#tumblrtextposts</a><a href="/t/tumblrposts">#tumblrposts</a><a href="/t/memes">#memes</a><a href="/t/funnythings">#funnythings</a><a href="/t/same">#same</a><a href="/t/funny">#funny</a><a href="/t/loltumblr">#loltumblr</a><a href="/t/relatable">#relatable</a><a href="/t/rarepepe">#rarepepe</a><a href="/t/funnytextposts">#funnytextposts</a><a href="/t/meme">#meme</a><a href="/t/funnystuff">#funnystuff</a><a href="/t/food">#food</a><a href="/t/slime">#slime</a><a href="/t/spamforspam">#spamforspam</a><a href="/t/likeforlike">#likeforlike</a><a href="/t/sfs">#sfs</a><a href="/t/funnymemes">#funnymemes</a><a href="/t/hilariousmeme">#hilariousmeme</a><a href="/t/depression">#depression</a><a href="/t/depressionmemes">#depressionmemes</a><a href="/t/relatablememes">#relatablememes</a><a href="/t/life">#life</a><a href="/t/kyliejenner">#kyliejenner</a> <a href="/t/gameofthrones">#gameofthrones</a> <a href="/t/riverdale">#riverdale</a> <a href="/t/strangerthings">#strangerthings</a></p>
+            <div class="likes-comments">
+                <span class="likes">0 Like</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/archives_stories/1660521883203705025_5493243865">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/grimm.king/1660522081726706082_4289844072" style="height:336px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/sh0.08/e35/24254357_1972678769614562_2040747775049596928_n.jpg" alt="" style="height:336px;" onerror="imgLoadError(this,'media');">
+                        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/grimm.king"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/22709564_1459337304180492_519233207892180992_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/grimm.king"><div>Mr. Apathy</div> <div>(@grimm.king)</div></a>
+                </h3>
+
+                <span class="created_time">0 Second Ago</span>
+            </div>
+            <p class="pintaram-text">God I wish that were me...
+-
+-
+-
+<a href="/t/dankmemes">#dankmemes</a> <a href="/t/dailymemes">#dailymemes</a> <a href="/t/edgymeme">#edgymeme</a> <a href="/t/reddit">#reddit</a> <a href="/t/cancer">#cancer</a> <a href="/t/ironic">#ironic</a> <a href="/t/suicide">#suicide</a> <a href="/t/lol">#lol</a> <a href="/t/kek">#kek</a> <a href="/t/memes">#memes</a> <a href="/t/dank">#dank</a> <a href="/t/cringe">#cringe</a> <a href="/t/meme">#meme</a> <a href="/t/4chan">#4chan</a> <a href="/t/edgymemes">#edgymemes</a> <a href="/t/reddit">#reddit</a> <a href="/t/ifunny">#ifunny</a> <a href="/t/9gag">#9gag</a> <a href="/t/pewdiepie">#pewdiepie</a> <a href="/t/anime">#anime</a> <a href="/t/japan">#japan</a> <a href="/t/hentai">#hentai</a> <a href="/t/filthyfrank">#filthyfrank</a> <a href="/t/vibes">#vibes</a> <a href="/t/spicymemes">#spicymemes</a> <a href="/t/minion">#minion</a> <a href="/t/destiny2">#destiny2</a> <a href="/t/jew">#jew</a> <a href="/t/callofduty">#callofduty</a> <a href="/t/funny">#funny</a> <a href="/t/funnymemes">#funnymemes</a></p>
+            <div class="likes-comments">
+                <span class="likes">2 Likes</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/grimm.king/1660522081726706082_4289844072">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/phoreplaye/1660456473829123997_4584068306" style="height:336px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/e15/24175555_2025578584344511_2262612346608287744_n.jpg" alt="" style="height:336px;" onerror="imgLoadError(this,'media');">
+                <div class="video-img"><img src="/static/home/images/pc/p_video.png"></div>        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/phoreplaye"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/21107916_1459983800747043_391196633615826944_a.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/phoreplaye"><div>Local Faggot</div> <div>(@phoreplaye)</div></a>
+                </h3>
+
+                <span class="created_time">2 Hours Ago</span>
+            </div>
+            <p class="pintaram-text"><a href="/t/meme">#meme</a><a href="/t/dankmeme">#dankmeme</a><a href="/t/stolen">#stolen</a><a href="/t/edgy">#edgy</a><a href="/t/edgymeme">#edgymeme</a><a href="/t/pron">#pron</a><a href="/t/golfing">#golfing</a><a href="/t/nonutnovember">#nonutnovember</a><a href="/t/killme">#killme</a><a href="/t/youlikejazz">#youlikejazz</a><a href="/t/beemovie">#beemovie</a><a href="/t/plzfollow">#plzfollow</a> <a href="/t/lilpump">#lilpump</a><a href="/t/guccigang">#guccigang</a><a href="/t/trash">#trash</a><a href="/t/edgy">#edgy</a><a href="/t/nicememe">#nicememe</a><a href="/t/edgymeme">#edgymeme</a><a href="/t/trumpmemes">#trumpmemes</a><a href="/t/bushdid911">#bushdid911</a><a href="/t/nonutnovember">#nonutnovember</a><a href="/t/nonutforevet">#nonutforevet</a><a href="/t/spicymeme">#spicymeme</a><a href="/t/mehmesdaily">#mehmesdaily</a><a href="/t/memes">#memes</a><a href="/t/lmao">#lmao</a><a href="/t/rickandmorty">#rickandmorty</a><a href="/t/ricegumisabitch">#ricegumisabitch</a><a href="/t/jakepaulmemes">#jakepaulmemes</a><a href="/t/idubbbz">#idubbbz</a><a href="/t/followplease">#followplease</a><a href="/t/edgymemes">#edgymemes</a><a href="/t/toes">#toes</a></p>
+            <div class="likes-comments">
+                <span class="likes">3 Likes</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/phoreplaye/1660456473829123997_4584068306">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/unaesthethicc/1660522014703609333_6234718767" style="height:336px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/sh0.08/e35/24254179_160200451263091_3231165701360189440_n.jpg" alt="" style="height:336px;" onerror="imgLoadError(this,'media');">
+                        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/unaesthethicc"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/23969847_130628787628691_4028423012884676608_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/unaesthethicc"><div>emily 💕✨🌈</div> <div>(@unaesthethicc)</div></a>
+                </h3>
+
+                <span class="created_time">0 Second Ago</span>
+            </div>
+            <p class="pintaram-text">just a lil vine compilation!
+I bought cards against humanity for my party next weekend, it’ll be lit :) <a href="/t/niche">#niche</a> <a href="/t/nichememes">#nichememes</a> <a href="/t/aesthetic">#aesthetic</a> <a href="/t/meme">#meme</a> <a href="/t/memes">#memes</a> <a href="/t/vine">#vine</a> <a href="/t/vines">#vines</a> <a href="/t/like">#like</a> <a href="/t/likeforlike">#likeforlike</a> <a href="/t/l4l">#l4l</a> <a href="/t/follow">#follow</a> <a href="/t/followme">#followme</a> <a href="/t/followforfollow">#followforfollow</a> <a href="/t/follow4follow">#follow4follow</a> <a href="/t/ifb">#ifb</a> <a href="/t/ifbb">#ifbb</a></p>
+            <div class="likes-comments">
+                <span class="likes">1 Like</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/unaesthethicc/1660522014703609333_6234718767">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/luna3ris/1660522041939426812_1505910569" style="height:255.15px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/sh0.08/e35/24175643_1663293517047356_2462306000632283136_n.jpg" alt="" style="height:255.15px;" onerror="imgLoadError(this,'media');">
+                        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/luna3ris"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/22220768_144915529359930_7378682488006115328_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/luna3ris"><div>Alpha Wolf 🌙</div> <div>(@luna3ris)</div></a>
+                </h3>
+
+                <span class="created_time">0 Second Ago</span>
+            </div>
+            <p class="pintaram-text">This is the only Black Friday shopping I would participate in 😂😂😂 Go follow my amazing family 🖤🌙
+______________________________________________
+The Beauties 
+@gumyzbear 🐻
+@viiicess 💖
+@karinakawaii 🦊
+@_raxiah_ 🐱
+@hanncanon 😍
+______________________________________________
+The Boys
+@sierrax07 🔥
+@ik_luna 🌙
+@er0ticburrito69 🌯
+@_alwaysgone_ 😇
+@crazy_russian_pirtate ☠️
+@pentakaru 👾
+@sithazriel 🌕
+@synful_toxic 👽
+@grimm_skitzo 🎃
+______________________________________________
+<a href="/t/destiny">#destiny</a><a href="/t/destiny2">#destiny2</a><a href="/t/gamer">#gamer</a><a href="/t/gaming">#gaming</a><a href="/t/videogames">#videogames</a><a href="/t/funny">#funny</a><a href="/t/blackfriday">#blackfriday</a><a href="/t/nerd">#nerd</a><a href="/t/geek">#geek</a><a href="/t/scifi">#scifi</a><a href="/t/meme">#meme</a><a href="/t/crucible">#crucible</a><a href="/t/pvp">#pvp</a><a href="/t/shopping">#shopping</a><a href="/t/gamergirl">#gamergirl</a><a href="/t/girlgamer">#girlgamer</a><a href="/t/xbox">#xbox</a><a href="/t/xboxone">#xboxone</a><a href="/t/playstation">#playstation</a><a href="/t/ps4">#ps4</a><a href="/t/guardians">#guardians</a><a href="/t/twitch">#twitch</a><a href="/t/twitchgirls">#twitchgirls</a><a href="/t/twitchstreamer">#twitchstreamer</a><a href="/t/twitchkittens">#twitchkittens</a></p>
+            <div class="likes-comments">
+                <span class="likes">1 Like</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/luna3ris/1660522041939426812_1505910569">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/chinesewiener/1660521818022629126_6245416866" style="height:220.5px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/sh0.08/e35/24177424_316778415469152_7837584526514585600_n.jpg" alt="" style="height:220.5px;" onerror="imgLoadError(this,'media');">
+                        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/chinesewiener"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/22794262_1912953312288006_4766685327941173248_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/chinesewiener"><div>fresh ass memes daily</div> <div>(@chinesewiener)</div></a>
+                </h3>
+
+                <span class="created_time">22 Seconds Ago</span>
+            </div>
+            <p class="pintaram-text">hungry nigga
+@chineseweiner
+<a href="/t/funny">#funny</a> <a href="/t/meme">#meme</a> <a href="/t/lol">#lol</a> <a href="/t/nudes">#nudes</a> <a href="/t/sex">#sex</a> <a href="/t/dankmemes">#dankmemes</a> <a href="/t/childporn">#childporn</a> <a href="/t/funnymeme">#funnymeme</a> <a href="/t/funnymemesdaily">#funnymemesdaily</a> <a href="/t/hilariousmeme">#hilariousmeme</a> <a href="/t/funnyvideos">#funnyvideos</a> <a href="/t/memeaccount">#memeaccount</a> <a href="/t/dailymemes">#dailymemes</a></p>
+            <div class="likes-comments">
+                <span class="likes">0 Like</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/chinesewiener/1660521818022629126_6245416866">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/la7_ymemes/1660522037251661366_5953502499" style="height:336px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/e15/24253668_158389048104962_294878362755661824_n.jpg" alt="" style="height:336px;" onerror="imgLoadError(this,'media');">
+                <div class="video-img"><img src="/static/home/images/pc/p_video.png"></div>        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/la7_ymemes"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/24175713_134071010623769_7698798469435097088_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/la7_ymemes"><div>My Meme Now</div> <div>(@la7_ymemes)</div></a>
+                </h3>
+
+                <span class="created_time">0 Second Ago</span>
+            </div>
+            <p class="pintaram-text">T H O T <a href="/t/meme">#meme</a><a href="/t/memes">#memes</a><a href="/t/funny">#funny</a><a href="/t/af">#af</a><a href="/t/funnymemes">#funnymemes</a><a href="/t/dank">#dank</a><a href="/t/dankmemes">#dankmemes</a><a href="/t/autistic">#autistic</a><a href="/t/originalmemes">#originalmemes</a><a href="/t/originalmeme">#originalmeme</a><a href="/t/edgy">#edgy</a><a href="/t/furry">#furry</a><a href="/t/edgymemes">#edgymemes</a><a href="/t/sexy">#sexy</a><a href="/t/hot">#hot</a><a href="/t/lit">#lit</a><a href="/t/sexymemes">#sexymemes</a><a href="/t/offensive">#offensive</a><a href="/t/offensivememes">#offensivememes</a><a href="/t/instafunny">#instafunny</a><a href="/t/amazing">#amazing</a><a href="/t/satisfying">#satisfying</a><a href="/t/watch">#watch</a><a href="/t/rare">#rare</a><a href="/t/high">#high</a><a href="/t/gay">#gay</a></p>
+            <div class="likes-comments">
+                <span class="likes">1 Like</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/la7_ymemes/1660522037251661366_5953502499">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/duncememes/1660522040892324958_3165728159" style="height:334.95px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/s320x320/sh0.08/e35/24175708_146509399334322_4025963697431117824_n.jpg" alt="" style="height:334.95px;" onerror="imgLoadError(this,'media');">
+                        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/duncememes"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/22857712_383540368735116_6635800115284017152_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/duncememes"><div>🔻</div> <div>(@duncememes)</div></a>
+                </h3>
+
+                <span class="created_time">0 Second Ago</span>
+            </div>
+            <p class="pintaram-text">sorry for the disappearance
+-
+-
+-
+<a href="/t/dank">#dank</a> <a href="/t/dankmeme">#dankmeme</a> <a href="/t/dankmemes">#dankmemes</a> <a href="/t/meme">#meme</a> <a href="/t/memes">#memes</a> <a href="/t/lol">#lol</a> <a href="/t/lmfao">#lmfao</a> <a href="/t/lmao">#lmao</a> <a href="/t/rofl">#rofl</a> <a href="/t/dead">#dead</a> <a href="/t/rip">#rip</a> <a href="/t/insta">#insta</a> <a href="/t/instagram">#instagram</a> <a href="/t/clickbait">#clickbait</a> <a href="/t/soccer">#soccer</a> <a href="/t/football">#football</a> <a href="/t/spongebob">#spongebob</a> <a href="/t/spongebobmemes">#spongebobmemes</a> <a href="/t/spongebobmeme">#spongebobmeme</a> <a href="/t/patrick">#patrick</a> <a href="/t/patrickstar">#patrickstar</a> <a href="/t/ha">#ha</a> <a href="/t/haha">#haha</a> <a href="/t/hahahaha">#hahahaha</a> <a href="/t/😹">#😹</a> <a href="/t/😂">#😂</a> <a href="/t/hurricane">#hurricane</a> <a href="/t/minecraft">#minecraft</a> <a href="/t/troll">#troll</a> <a href="/t/sky">#sky</a></p>
+            <div class="likes-comments">
+                <span class="likes">1 Like</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/duncememes/1660522040892324958_3165728159">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+    <div class="pintaram-item grid-item">
+        <a class="item-top" href="/u/derpilicious.memes/1660522000299719424_5610708222" style="height:336px;">
+            <img src="https://scontent.cdninstagram.com/t51.2885-15/e35/24254056_1275347579235857_2121616997006442496_n.jpg" alt="" style="height:336px;" onerror="imgLoadError(this,'media');">
+                <div class="video-img"><img src="/static/home/images/pc/p_video.png"></div>        </a>
+        <div class="item-content">
+            <div class="user-wrap">
+                <div class="user-img">
+                    <a href="/u/derpilicious.memes"><img src="https://scontent.cdninstagram.com/t51.2885-19/s150x150/23967584_1965593733688494_6312401984271941632_n.jpg" alt="" onerror="imgLoadError(this,'user');"></a>
+                </div>
+                <h3 class="user-username"><a href="/u/derpilicious.memes"><div>Follow for dank &amp; edgy memes</div> <div>(@derpilicious.memes)</div></a>
+                </h3>
+
+                <span class="created_time">0 Second Ago</span>
+            </div>
+            <p class="pintaram-text">Gotcha
+Credit: @i.beat.my.yeet.v2
+⚫Follow for more⚫
+⚫ Follow my backup ⚫ @more.derpilicious.memes
+⚫All my homies⚫
+⏬⏬⏬⏬⏬⏬
+@aurafyyy.memes
+@smol.pump (aka pumpu)
+@heckindogger
+@memes_for_weabs
+@deadwaifus
+@ecchi.smoothie
+@squanch.y
+⚫DM me for credit if I haven't credited you already⚫
+⚫TAGS IGNORE⚫
+<a href="/t/minecraft">#minecraft</a> <a href="/t/trending">#trending</a> <a href="/t/fnaf">#fnaf</a> <a href="/t/lol">#lol</a> <a href="/t/lmao">#lmao</a> <a href="/t/meme">#meme</a> <a href="/t/followfurry">#followfurry</a> <a href="/t/feminism">#feminism</a> <a href="/t/autism">#autism</a> <a href="/t/cancer">#cancer</a> <a href="/t/happiness">#happiness</a> <a href="/t/rofl">#rofl</a> <a href="/t/anime">#anime</a> <a href="/t/filthyfrank">#filthyfrank</a> <a href="/t/relatable">#relatable</a> <a href="/t/hood">#hood</a> <a href="/t/instagram">#instagram</a> <a href="/t/dankmemes">#dankmemes</a> <a href="/t/ricegum">#ricegum</a> <a href="/t/idubbbz">#idubbbz</a> <a href="/t/overwatch">#overwatch</a> <a href="/t/csgo">#csgo</a> <a href="/t/cringe">#cringe</a> <a href="/t/youtube">#youtube</a> <a href="/t/igbt">#igbt</a> <a href="/t/hilarious">#hilarious</a> <a href="/t/dank">#dank</a> <a href="/t/ifunny">#ifunny</a> <a href="/t/pokemon">#pokemon</a> <a href="/t/oof">#oof</a></p>
+            <div class="likes-comments">
+                <span class="likes">0 Like</span>
+                <span class="comments">0 Comment</span>
+            </div>
+        </div>
+        <div class="trends-btn">
+            <div class="line"></div>
+            <a href="/u/derpilicious.memes/1660522000299719424_5610708222">
+                <span class="trends-icon">Hashtag Trends</span>
+            </a>
+        </div>
+    </div>
+
+    
+
+        </div>
+    </div>
+
+    
+        <div id="back-to-top" style="display: none;">
+            <span></span>
+        </div>
+        <script>
+            var offset = 250, // At what pixels show Back to Top Button
+                scrollDuration = 300; // Duration of scrolling to top
+                backTopBtn = $('#back-to-top');
+            backTopBtn.click(function(event) {
+                event.preventDefault();
+                $('html, body').animate({
+                    scrollTop: 0
+                }, scrollDuration);
+            });
+            function showHideBackTopBtn(scrollTopValue){
+                if(scrollTopValue && scrollTopValue > offset){
+                    backTopBtn.fadeIn(500); // Time(in Milliseconds) of appearing of the Button when scrolling down.
+                }else{
+                    backTopBtn.fadeOut(500); // Time(in Milliseconds) of disappearing of Button when scrolling up.
+                }
+            }
+            $(window).scroll(function() {
+                showHideBackTopBtn($(this).scrollTop());
+            });
+        </script>
+    
+    
+        <div class="line"></div>
+    
+    
+        <footer class="footer">
+            <div class="footer-container">
+                <a href="https://www.pintaram.com" rel="nofollow">©2017 Pintaram</a>
+                |
+                <a href="/privacy-policy" rel="nofollow">Privacy Policy</a>
+                |
+                <a href="/about-us" rel="nofollow">About Us</a>
+            </div>
+            <div class="footer-desc">This site uses the Instagram API but is not endorsed or certified by Instagram. All Instagram™ logos and trademarks displayed on this applicatioin are property of Instagram.</div>
+        </footer>
+    
+    
+        <script src="/static/home/js/masonry.pkgd.min.js"></script>
+        <script>
+            var $grid = $(".grid").fadeIn(500).masonry({
+                // options
+                itemSelector: '.grid-item',
+                columnWidth: 336,
+                gutter: 56,
+                fitWidth: true,
+                originTop: true
+            });
+            var latestPost = {main:$('#pintaram-latestpost-list'),content:$('#pintaram-latestpost-list'),nextMaxId:'AQBVq1cpJvmKEsDHbQOLidxIPkKELyeaRY6rO2EERnrUpqBjgoZ3ypidYtBWSUX8D8oY3b7jkADCRVGpqpsmMtG_4zSNbUOErRAl9-WbUpqAd_HCd_j7sFOaUYstIh4sxU0',stop:false};
+            function loadData(){
+                if(latestPost['stop']){
+                    return ;
+                }
+                latestPost['stop'] = true;
+                if(latestPost['nextMaxId']==''){
+                    return ;
+                }
+                param = {nextMaxId:latestPost['nextMaxId']};
+
+                $.post('',param,function(data){
+                    if(('data' in data) && data['data']!=''){
+                        var domData = $(data['data']);
+                        if($grid){
+                            $grid.append(domData).masonry( 'appended', domData ).masonry();
+                        }
+                    }
+                    if('pagination' in data){
+                        latestPost['nextMaxId'] = data['pagination']['next_max_id'];
+                        latestPost['stop'] = false;
+                    }
+                },'json');
+            }
+            $(window).scroll(function(event){
+                if($(this).scrollTop() + $(window).height()+300 >= (latestPost['main']).height()){
+                    loadData();
+                }
+            });
+        </script>
+
+    
+    <script>
+        $("body").delegate("a.statistics-bettystoybox-click", "click", function(event){
+            var url = 'https%3A%2F%2Fwww.pintaram.com%2Ft%2Fmeme';
+            $.post('/statistics-click',{ type:'bettystoybox',url: url });
+        });
+    </script>
+    
+    <!-- Start of StatCounter Code for Default Guide -->
+    <script type="text/javascript">
+    var sc_project=11322915;
+    var sc_invisible=1;
+    var sc_security="110f122a";
+    var sc_https=1;
+    var scJsHost = (("https:" == document.location.protocol) ?
+    "https://secure." : "http://www.");
+    document.write("<sc"+"ript type='text/javascript' src='" +
+    scJsHost+
+    "statcounter.com/counter/counter.js'></"+"script>");
+    </script>
+    <noscript><div class="statcounter"><a title="web analytics"
+    href="http://statcounter.com/" target="_blank"><img
+    class="statcounter"
+    src="//c.statcounter.com/11322915/0/110f122a/1/" alt="web
+    analytics"></a></div></noscript>
+    <!-- End of StatCounter Code for Default Guide -->
+</body>
+
+</html>
