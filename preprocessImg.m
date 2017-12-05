@@ -1,7 +1,7 @@
 disp('Hi');
 StephDir = '/Users/stephanieangulo/Desktop/cs-stuff/fall-2017/machine-learning/final_project/data';
 EmilyDir = 'D:\CodeStuff\MATLAB\Machine_Learning\DoggoProject\data';
-rootFolder = EmilyDir;
+rootFolder = StephDir;
 categories = {'corgi_data','bread_data'};
 imgs = imageDatastore(fullfile(rootFolder, categories),'LabelSource', ...
     'foldernames', 'IncludeSubfolders', true, 'FileExtensions', '.jpg');
