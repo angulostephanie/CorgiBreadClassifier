@@ -14,8 +14,13 @@ for i = 1:N
     try
    img = readimage(imgs,i);
    %fprintf('File #: %d\nSize %d-by-%d-by-%d\n', i, size(img,1), size(img,2), size(img,3));
+   if size(img,1) > 0
    imageSize(i,1) = size(img,1);
    imageSize(i,2) = size(img,2);
+   end
     catch
+        display(imgs.Files{i}); % display corrupt images
+        disp(i);
     end
 end
+[M,I] = (min(imageSize));
