@@ -6,23 +6,17 @@ categories = {'corgi_data','bread_data'};
 imgs = imageDatastore(fullfile(rootFolder, categories),'LabelSource', ...
     'foldernames', 'IncludeSubfolders', true, 'FileExtensions', '.jpg');
 % imgs.ReadFcn = @(filename)readAndPreprocessImage(filename);
-[train, test] = splitEachLabel(imgs, 50, 'randomize');
+ imgs.ReadFcn = @(loc)imresize(imread(loc),[200,200]); % resize images
 
 N = numel(imgs.Files);
 imageSize = nan(N,2);
 for i = 1137:N
     try
    img = readimage(imgs,i);
-   %fprintf('File #: %d\nSize %d-by-%d-by-%d\n', i, size(img,1), size(img,2), size(img,3));
-   if size(img,1) > 10
-       imageSize(i,1) = size(img,1);
-       imageSize(i,2) = size(img,2);
-   else
-       disp(i);
-   end
+   fprintf('File #: %d\nSize %d-by-%d-by-%d\n', i, size(img,1), size(img,2), size(img,3));
     catch
-        display(imgs.Files{i}); % display corrupt images
+        delete(imgs.Files{i}); % delete corrupt images
         disp(i);
     end
 end
-[minDimension,index] = (min(imageSize));
+[train, test] = splitEachLabel(imgs, 50, 'randomize'); 
