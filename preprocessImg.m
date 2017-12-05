@@ -10,10 +10,12 @@ imgs = imageDatastore(fullfile(rootFolder, categories),'LabelSource', ...
 
 N = numel(imgs.Files);
 imageSize = nan(N,2);
-for i = 1137:N
+for i = 1:N
     try
    img = readimage(imgs,i);
-   fprintf('File #: %d\nSize %d-by-%d-by-%d\n', i, size(img,1), size(img,2), size(img,3));
+   imageSize(i,1) = size(img,1);
+   imageSize(i,2) = size(img,2);
+   %fprintf('File #: %d\nSize %d-by-%d-by-%d\n', i, size(img,1), size(img,2), size(img,3));
     catch
         delete(imgs.Files{i}); % delete corrupt images
         disp(i);
