@@ -22,7 +22,6 @@ test_output = classify(net, test);
 accuracy = sum(test_output == testing.Labels)/length(test_output); 
 
 function Iout = readAndPreprocessImage(filename)
-
 try
     I = imread(filename);
     % Some images may be grayscale. Replicate the image 3 times to
@@ -38,5 +37,4 @@ catch
     disp(filename);
     Iout = null;
 end
-
 end
