@@ -1,8 +1,8 @@
 root_folder = Constants.STEPHS_DIRECTORY; 
-categories = {'corgi_data','bread_data'};
-original_imgs = imageDatastore(fullfile(root_folder, categories),'LabelSource', ...
+original_imgs = imageDatastore(fullfile(root_folder, Constants.CATEGORIES),'LabelSource', ...
     'foldernames', 'IncludeSubfolders', true, 'FileExtensions', '.jpg');
 imgs = preprocessImages(original_imgs);
+
 [train, test] = splitEachLabel(imgs, Constants.TRAINING_SIZE, 'randomize'); 
 options = trainingOptions('sgdm', 'MaxEpochs', 1, 'InitialLearnRate', ...
     .001);
