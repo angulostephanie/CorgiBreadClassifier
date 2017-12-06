@@ -23,7 +23,7 @@
 options = trainingOptions('sgdm', 'MaxEpochs', 1, 'InitialLearnRate', ...
     .001);
 layers = [imageInputLayer([Constants.IMG_SIZE Constants.IMG_SIZE 3])
-          convolution2dLayer([5,5],1)
+          convolution2dLayer([5,5],50)
           batchNormalizationLayer
           reluLayer
           
