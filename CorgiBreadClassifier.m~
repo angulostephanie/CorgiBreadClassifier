@@ -1,13 +1,13 @@
-root_folder = Constants.STEPHS_DIRECTORY; 
-original_imgs = imageDatastore(fullfile(root_folder, Constants.CATEGORIES),'LabelSource', ...
+root_folder = Constants.EMILYS_DIRECTORY; 
+categories = {'corgi_data','bread_data'};
+org = imageDatastore(fullfile(root_folder, categories),'LabelSource', ...
     'foldernames', 'IncludeSubfolders', true, 'FileExtensions', '.jpg');
-imgs = preprocessImages(original_imgs);
-
+imgs = preprocessImages(imgs);
 [train, test] = splitEachLabel(imgs, Constants.TRAINING_SIZE, 'randomize'); 
 options = trainingOptions('sgdm', 'MaxEpochs', 1, 'InitialLearnRate', ...
     .001);
 layers = [imageInputLayer([Constants.IMG_SIZE Constants.IMG_SIZE 3])
-          convolution2dLayer([5,5],50)
+          convolution2dLayer([5,5],1)
           batchNormalizationLayer
           reluLayer
           
