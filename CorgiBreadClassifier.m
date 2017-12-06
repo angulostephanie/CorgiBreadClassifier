@@ -30,11 +30,21 @@
 % test_output = classify(net, test);
 % accuracy = sum(test_output == test.Labels)/length(test_output); 
 
-disp('Accuracy: ');
-disp(accuracy);
-size = numel(test.Files);
+m = numel(test.Files);
+predictedT = table(test_output);
+actualT = table(test.Labels);
+predicted_ = table2cell(predictedT);
+actual_ = table2cell(actualT);
 
-testImg = readimage(test, 1);
-
-imshow(testImg);
-disp(test_output{1});
+counter = 1;
+for i = 1:(m/10)
+    if(predicted_{i} ~= actual_{i})
+        
+        disp(test.Files{i});
+%         subplot(10, 10, counter), imshow(testImg);
+        disp("Wrong at index #");
+        disp(i);
+        counter = counter + 1;
+    end
+     
+ end
