@@ -1,7 +1,7 @@
-root_folder = Constants.EMILYS_DIRECTORY; 
+root_folder = Constants.STEPHS_DIRECTORY; 
 original_imgs = imageDatastore(fullfile(root_folder, Constants.CATEGORIES),'LabelSource', ...
     'foldernames', 'IncludeSubfolders', true, 'FileExtensions', '.jpg');
-% imgs = preprocessImages(original_imgs);
+imgs = preprocessImages(original_imgs);
 
 [train, test] = splitEachLabel(imgs, Constants.TRAINING_SIZE, 'randomize'); 
 options = trainingOptions('sgdm', 'MaxEpochs', 1, 'ExecutionEnvironment', ...
@@ -17,13 +17,13 @@ layers = [imageInputLayer([Constants.IMG_SIZE Constants.IMG_SIZE 3])
           batchNormalizationLayer
           reluLayer
           
-           maxPooling2dLayer(3,'Stride',2,'Padding',0)
+          maxPooling2dLayer(3,'Stride',2,'Padding',0)
  
-           convolution2dLayer([3,3],100,'Padding',1,'Stride',1)
-           batchNormalizationLayer
-           reluLayer
+          convolution2dLayer([3,3],100,'Padding',1,'Stride',1)
+          batchNormalizationLayer
+          reluLayer
            
-           maxPooling2dLayer(3,'Stride',2,'Padding',0)
+          maxPooling2dLayer(3,'Stride',2,'Padding',0)
 
           fullyConnectedLayer(2)
           reluLayer
@@ -37,23 +37,24 @@ net = trainNetwork(train, layers, options);
 predicted_labels = classify(net, test);
 accuracy = sum(predicted_labels == test.Labels)/length(predicted_labels); 
 
-% m = numel(test.Files);
-% predicted = table2cell(table(predicted_labels));
-% actual = table2cell( table(test.Labels));
-% 
-% 
-% counter = 1;
-% for i = 1:m
-%     if(predicted{i} ~= actual{i})
-%         
-%         disp(test.Files{i});
-% %         subplot(10, 10, counter), imshow(testImg);
-%         disp("Wrong at index #");
-%         disp(i);
-%         counter = counter + 1;
-%     end
-%      
-%  end
+m = numel(test.Files);
+predicted = table2cell(table(predicted_labels));
+actual = table2cell( table(test.Labels));
+
+
+counter = 1;
+for i = 1:m
+    if(predicted{i} ~= actual{i})
+        
+        disp(test.Files{i});
+%         subplot(10, 10, counter), imshow(testImg);
+        disp("Wrong at index #");
+        disp(i);
+        counter = counter + 1;
+    end
+     
+ end
+
 
 % classification_layer = 11;
 % trainingFeature = activations(net, train, classification_layer);
