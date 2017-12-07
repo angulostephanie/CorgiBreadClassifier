@@ -4,30 +4,29 @@ original_imgs = imageDatastore(fullfile(root_folder, Constants.CATEGORIES),'Labe
 % imgs = preprocessImages(original_imgs);
 
 [train, test] = splitEachLabel(imgs, Constants.TRAINING_SIZE, 'randomize'); 
-options = trainingOptions('sgdm', 'MaxEpochs', 1, 'ExecutionEnvironment', ...
-    'parallel','InitialLearnRate', .001);
+options = trainingOptions('sgdm', 'MaxEpochs', 15,'shuffle','every-epoch','InitialLearnRate', .0001);
 layers = [imageInputLayer([Constants.IMG_SIZE Constants.IMG_SIZE 3])
-          convolution2dLayer([5,5],10,'Padding',0,'Stride',4)
+          convolution2dLayer([5,5],20,'Padding',0,'Stride',4)
           batchNormalizationLayer
           reluLayer
           
           maxPooling2dLayer(3,'Stride',2,'Padding',0)
 
-          convolution2dLayer([3,3],50,'Padding',2,'Stride',1)
+          convolution2dLayer([3,3],100,'Padding',2,'Stride',1)
           batchNormalizationLayer
           reluLayer
           
            maxPooling2dLayer(3,'Stride',2,'Padding',0)
  
-           convolution2dLayer([3,3],100,'Padding',1,'Stride',1)
+           convolution2dLayer([2,2],150,'Padding',1,'Stride',1)
            batchNormalizationLayer
            reluLayer
            
            maxPooling2dLayer(3,'Stride',2,'Padding',0)
 
-          fullyConnectedLayer(2)
-          reluLayer
-          dropoutLayer
+%           fullyConnectedLayer(2)
+%           reluLayer
+%           dropoutLayer
           fullyConnectedLayer(2)
           softmaxLayer
           classificationLayer];
@@ -37,23 +36,23 @@ net = trainNetwork(train, layers, options);
 predicted_labels = classify(net, test);
 accuracy = sum(predicted_labels == test.Labels)/length(predicted_labels); 
 
-% m = numel(test.Files);
-% predicted = table2cell(table(predicted_labels));
-% actual = table2cell( table(test.Labels));
-% 
-% 
-% counter = 1;
-% for i = 1:m
-%     if(predicted{i} ~= actual{i})
-%         
-%         disp(test.Files{i});
-% %         subplot(10, 10, counter), imshow(testImg);
-%         disp("Wrong at index #");
-%         disp(i);
-%         counter = counter + 1;
-%     end
-%      
-%  end
+m = numel(test.Files);
+predicted = table2cell(table(predicted_labels));
+actual = table2cell( table(test.Labels));
+
+
+counter = 1;
+for i = 1:m
+    if(predicted{i} ~= actual{i})
+        testImg = imread(test.Files{i});
+ %       disp(test.Files{i});
+         subplot(10, 10, counter), imshow(testImg);
+ %       disp("Wrong at index #");
+ %       disp(i);
+        counter = counter + 1;
+    end
+     
+ end
 
 % classification_layer = 11;
 % trainingFeature = activations(net, train, classification_layer);
