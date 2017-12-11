@@ -13,7 +13,7 @@ for i = 1:m
         subplot(square_root, square_root, counter), imshow(image);
         counter = counter + 1;  
     end
-    if(counter == max)
+    if(counter == max+1)
         break;
     end
 end
