@@ -12,5 +12,5 @@ To build this project, please fill in your directory constant (in **Constants.m*
 
 The script will train a CNN, outputting its accuracy and displaying the first 100 mislabeled images.
 
-Enjoy!
-Emily and Steph
+Enjoy,
+Emily and Steph 🎉
