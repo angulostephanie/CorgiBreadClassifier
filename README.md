@@ -1,5 +1,5 @@
 # COMP 317 - Final Project
-A program that classifies images into two categories: corgis or bread.
+A convolutional neural net that classifies images into two categories: corgis or bread.
 
 Inside this zip file, you will find:
 * (**Constants.m**) A file with constants that are used throughout the project.
