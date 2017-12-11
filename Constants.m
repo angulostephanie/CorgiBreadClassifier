@@ -5,6 +5,7 @@ classdef Constants
         CATEGORIES = {'corgi','bread'};
         TRAINING_SIZE = 700;
         IMG_SIZE = 100;
+        NUM_OF_MISLABELED = 100;
         % will add other constants throughout the project
     end
    

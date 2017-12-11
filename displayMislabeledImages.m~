@@ -1,0 +1,21 @@
+function [] = displayMislabeledImages(test, predicted_labels)
+%Summary of this function
+m = numel(test.Files);
+predicted = table2cell(table(predicted_labels));
+actual = table2cell( table(test.Labels));
+
+
+counter = 1;
+for i = 1:m
+    if(predicted{i} ~= actual{i})
+        testImg = imread(test.Files{i});
+ %       disp(test.Files{i});
+         subplot(10, 10, counter), imshow(testImg);
+ %       disp("Wrong at index #");
+ %       disp(i);
+        counter = counter + 1;
+    end
+end
+     
+end
+
