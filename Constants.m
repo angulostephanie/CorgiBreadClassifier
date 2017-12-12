@@ -7,6 +7,9 @@ classdef Constants
         TRAINING_SIZE = 700;
         IMG_SIZE = 100;
         NUM_OF_MISLABELED = 100;
+        NUM_OF_FILTERS_1 = 20;
+        NUM_OF_FILTERS_2 = 100;
+        NUM_OF_FILTERS_3 = 150;
     end
    
 end
