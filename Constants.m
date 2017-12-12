@@ -4,8 +4,8 @@ classdef Constants
         EMILYS_DIRECTORY = 'D:\CodeStuff\MATLAB\Machine_Learning\DoggoProject\data';
         PROF_LEONARDS_DIRECTORY = ''; % fill it in with the appropiate info! :)
         CATEGORIES = {'corgi','bread'};
-        TRAINING_SIZE = 900;
-        IMG_SIZE = 100;
+        TRAINING_SIZE = 1000;
+        IMG_SIZE = 227;
         NUM_OF_MISLABELED = 100;
         NUM_OF_FILTERS_1 = 50;
         NUM_OF_FILTERS_2 = 150;

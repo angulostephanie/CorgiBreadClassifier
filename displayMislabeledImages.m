@@ -15,7 +15,7 @@ for i = 1:m
         counter = counter + 1; 
         image = imread(test.Files{i});
         subplot(square_root, square_root, counter), imshow(image);  
-        disp(test.Files{i});
+%         disp(test.Files{i});
     end
     if(counter == max)
         break;

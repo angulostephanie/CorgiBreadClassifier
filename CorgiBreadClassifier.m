@@ -1,8 +1,7 @@
 
-%
 % ==================== SETUP ==================== %
-% root_folder = Constants.STEPHS_DIRECTORY; 
-% [train, test, layers, options, imgs] = setupCNN(root_folder);   
+root_folder = Constants.STEPHS_DIRECTORY; 
+[train, test, layers, options] = setupCNN(root_folder);   
 
 % ==================== TRAIN ==================== %
 net = trainNetwork(train, layers, options);
@@ -17,6 +16,7 @@ accuracy = sum(predicted_labels == test.Labels)/length(predicted_labels);
 % displayMislabeledImages(test, predicted_labels, Constants.NUM_OF_MISLABELED);
 % disp('Accuracy of CNN:');
 % disp(accuracy);
+
 %}
 
 %  displayMislabeledImages(test, predicted_labels, Constants.NUM_OF_MISLABELED);
