@@ -1,8 +1,8 @@
 
-%{
+%
 % ==================== SETUP ==================== %
-root_folder = Constants.STEPHS_DIRECTORY; 
-[train, test, layers, options] = setupCNN(root_folder);   
+% root_folder = Constants.STEPHS_DIRECTORY; 
+% [train, test, layers, options, imgs] = setupCNN(root_folder);   
 
 % ==================== TRAIN ==================== %
 net = trainNetwork(train, layers, options);
@@ -18,7 +18,8 @@ accuracy = sum(predicted_labels == test.Labels)/length(predicted_labels);
 % disp('Accuracy of CNN:');
 % disp(accuracy);
 %}
- displayMislabeledImages(test, predicted_labels, Constants.NUM_OF_MISLABELED);
+
+%  displayMislabeledImages(test, predicted_labels, Constants.NUM_OF_MISLABELED);
 % path = strcat(Constants.STEPHS_DIRECTORY, '/corgi/1.jpg');
 % corgi = imread(path);
 % act1 = activations(net,corgi,'classoutput','OutputAs','channels');
