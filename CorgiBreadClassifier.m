@@ -18,22 +18,29 @@ accuracy = sum(predicted_labels == test.Labels)/length(predicted_labels);
 % disp('Accuracy of CNN:');
 % disp(accuracy);
 %}
+ displayMislabeledImages(test, predicted_labels, Constants.NUM_OF_MISLABELED);
+% path = strcat(Constants.STEPHS_DIRECTORY, '/corgi/1.jpg');
+% corgi = imread(path);
+% act1 = activations(net,corgi,'classoutput','OutputAs','channels');
+% sz = size(act1);
+% 
+% act1 = reshape(act1,[sz(1) sz(2) 1 sz(3)]);
+% [maxValue,maxValueIndex] = max(max(max(act1)));
+% act1chMax = act1(:,:,:,maxValueIndex);
+% act1chMax = mat2gray(act1chMax);
+% act1chMax = imresize(act1chMax,[sz(1) sz(2)]);
+% corgi = imresize(corgi,[sz(1) sz(2)]);
+% imshowpair(corgi,act1chMax,'montage')
+% 
 
-path = strcat(Constants.STEPHS_DIRECTORY, '/corgi/1.jpg');
-corgi = imread(path);
-act1 = activations(net,corgi,'fc','OutputAs','channels');
-sz = size(act1);
+% img = deepDreamImage(net,'fc',1,'Verbose',true, 'NumIterations',300, 'PyramidLevels',4);
 
-act1 = reshape(act1,[sz(1) sz(2) 1 sz(3)]);
-[maxValue,maxValueIndex] = max(max(max(act1)));
-act1chMax = act1(:,:,:,maxValueIndex);
-act1chMax = mat2gray(act1chMax);
-act1chMax = imresize(act1chMax,[sz(1) sz(2)]);
-corgi = imresize(corgi,[sz(1) sz(2)]);
-imshowpair(corgi,act1chMax,'montage')
-
-
-
+% w1 = net.Layers(2).Weights;
+% w1 = mat2gray(w1);
+% w1 = imresize(w1,5);
+% figure;
+% montage(w1);
+% title('First convolutional layer weights');
 
 
 % classification_layer = 11;
