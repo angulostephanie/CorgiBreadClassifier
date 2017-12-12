@@ -1,14 +1,14 @@
-
-% ==================== SETUP ==================== %
-root_folder = Constants.STEPHS_DIRECTORY; 
-[train, test, layers, options] = setupCNN(root_folder);   
-
-% ==================== TRAIN ==================== %
-net = trainNetwork(train, layers, options);
-
-% =================== RESULTS =================== %
-predicted_labels = classify(net, test);
-accuracy = sum(predicted_labels == test.Labels)/length(predicted_labels);
+% 
+% % ==================== SETUP ==================== %
+% root_folder = Constants.EMILYS_DIRECTORY; 
+% [train, test, layers, options] = setupCNN(root_folder);   
+% 
+% % ==================== TRAIN ==================== %
+% net = trainNetwork(train, layers, options);
+% 
+% % =================== RESULTS =================== %
+% predicted_labels = classify(net, test);
+% accuracy = sum(predicted_labels == test.Labels)/length(predicted_labels);
  
 
 
@@ -34,7 +34,7 @@ accuracy = sum(predicted_labels == test.Labels)/length(predicted_labels);
 % imshowpair(corgi,act1chMax,'montage')
 % 
 
-% img = deepDreamImage(net,'fc',1,'Verbose',true, 'NumIterations',300, 'PyramidLevels',4);
+ img = deepDreamImage(net,'fc_3',1,'Verbose',true, 'NumIterations',100, 'PyramidLevels',4);
 
 % w1 = net.Layers(2).Weights;
 % w1 = mat2gray(w1);

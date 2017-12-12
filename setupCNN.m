@@ -11,8 +11,8 @@ original_imgs = imageDatastore(fullfile(root_folder, ...
 imgs = preprocessImages(original_imgs);
 
 [train, test] = splitEachLabel(imgs, Constants.TRAINING_SIZE, 'randomize'); 
-options = trainingOptions('sgdm', 'MaxEpochs', 1,'shuffle', ...
-    'every-epoch','InitialLearnRate', .00001, 'ExecutionEnvironment', 'parallel');
+options = trainingOptions('sgdm', 'MaxEpochs', 7,'shuffle', ...
+    'every-epoch','InitialLearnRate', .00001);
 
 layers = [imageInputLayer([Constants.IMG_SIZE Constants.IMG_SIZE 3])
           
