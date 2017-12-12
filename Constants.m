@@ -11,7 +11,6 @@ classdef Constants
         NUM_OF_FILTERS_2 = 150;
         NUM_OF_FILTERS_3 = 300;
         NUM_OF_FILTERS_4 = 600;
-        NUM_OF_FILTERS_5 = 1200;
     end
    
 end
